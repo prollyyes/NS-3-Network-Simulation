@@ -1,0 +1,9 @@
+TCP delivery of a file of 1221 MB starting at 0.72 s
+	Sender: Node 7	Receiver: Server 0
+TCP delivery of a file of 1264 MB starting at 3.93 s
+	Sender: Node 16	Receiver: Server 1
+TCP delivery of a file of 1754 MB starting at 3.87 s
+	Sender: Node 13	Receiver: Server 0
+Wi-Fi operating in Infrastructure mode, AP is stationary, Stations nodes move with random walk mobility pattern over a bounded square of 30 meters for each side
+UDP Echo application with Client 15 and Server 3
+	Size of packet: 1964 Bytes	Periodicity: 20ms	MaxPackets: 250
